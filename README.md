@@ -54,7 +54,7 @@ No installation is needed. Just follow the steps below:
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/oasisinfobyte-internship.git
+git clone https://github.com/your-username/oasis.git
 cd oasisinfobyte-internship
 
 # Open any project in your browser
