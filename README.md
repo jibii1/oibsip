@@ -17,9 +17,6 @@ This repository contains three front-end web development projects completed as p
 - Course offerings and testimonials.
 - Contact form and footer.
 
-🖼 *Preview*:  
-![Landing Page Preview](https://images.unsplash.com/photo-1607746882042-944635dfe10e)
-
 ---
 
 ## 👤 Project 2: HIDA TK – Personal Portfolio
